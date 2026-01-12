@@ -92,3 +92,21 @@ ul li {
 .btn-whatsapp:hover {
     background-color: #1ebd5a;
 }
+section p {
+    max-width: 700px;
+    margin: 0 auto 15px;
+    text-align: center;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer {
+    background-color: #2e7d32;
+    color: white;
+    text-align: center;
+    padding: 30px 20px;
+    margin-top: 40px;
+}
